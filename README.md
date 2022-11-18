@@ -14,6 +14,7 @@
   <a/>
   
   <div>
+   <br>
   :woman_technologist: Sobre mí:
   <br>
   :seedling: Actualmene estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataformas en CampusFP.
