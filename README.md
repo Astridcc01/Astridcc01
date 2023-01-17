@@ -51,7 +51,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Astridcc01&theme=dark&background=000000)](https://git.io/streak-stats)
  
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astridcc01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Astridcc01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
    
 <div id="header" align="center">
 <img src="https://media4.giphy.com/media/duEbacpSGx8Pl8iWvx/giphy.gif?cid=6c09b9524m4sustu5u7q6bgy7axzsr0dcmkujo7s8juecwn4&rid=giphy.gif&ct=s" width="300"/>
