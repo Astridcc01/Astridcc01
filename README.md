@@ -17,7 +17,8 @@
    <br>
   :woman_technologist: Sobre mí:
   <br>
-  :seedling: Actualmente estoy estudiando un grado superior de Desarrollo de Aplicaciones Multiplataforma en CampusFP.
+  :seedling: Actualmente estoy estudiando un grado superior de Desarrollo de Aplicaciones Web en CampusFP.
+  Titulada en DAM.
   <br>
   :zap: Intento mejorar cada día mis habilidades como programadora, formándome constantemente y aprendiendo cada día algo nuevo.
   </div>
