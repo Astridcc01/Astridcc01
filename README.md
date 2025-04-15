@@ -1,6 +1,5 @@
 <div id="header" align="center">
 <h1>¡Hola, mi nombre es Astrid Cruces! :sparkles: </h1>
-<img src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" width="300"/>
 </div>
 
 <div id="badges">
@@ -46,11 +45,6 @@
    <br>
    <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Ionic" alt="Ionic" width="40" height="40"/>&nbsp;
    <br>
-   
-   :zap: Mis estadísticas:
-   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Astridcc01&theme=dark&background=000000)](https://git.io/streak-stats)
- 
    
    
 <div id="header" align="center">
